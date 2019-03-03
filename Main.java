@@ -12,7 +12,7 @@ public class Main{
     public static String prefix = "+";
 
     public static void main(String[] args) throws LoginException {
-        jda = new JDABuilder(AccountType.BOT).setToken("NTUxNTM2NjkwMjI1NzQxODYx.D1y-aw.lPkbwYqfDMqLUPHSywzAfRp0LsY").buildAsync();
+        jda = new JDABuilder(AccountType.BOT).setToken("").buildAsync();
 
         jda.getPresence().setStatus(OnlineStatus.ONLINE);
         jda.getPresence().setGame(Game.playing("with my fellow rangers"));
