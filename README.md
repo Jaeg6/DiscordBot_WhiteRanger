@@ -1,4 +1,4 @@
-# DiscordBot_WhiteRanger
+# DiscordBot_WhiteRanger [INACTIVE]
 Source Code for my discord bot: White Ranger.
 
 CHANGE LOGS
