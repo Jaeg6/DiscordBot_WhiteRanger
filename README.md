@@ -1,5 +1,6 @@
-# DiscordBot_WhiteRanger [INACTIVE]
+# DiscordBot_WhiteRanger [Archive]
 Source Code for my discord bot: White Ranger.
+This is the old stuff. Newer items in a different repository
 
 CHANGE LOGS
 
